@@ -5,3 +5,6 @@
 * 8 x m5 locknuts, for the tenting version - [aliexpress](https://www.aliexpress.com/item/32988995881.html)
 * 8 x 4.7mm inner diameter rubber caps, for the tenting version - [aliexpress](https://www.aliexpress.com/item/1005002270601725.html)
 * 8 x 10x2mm silicone feet - [aliexpress](https://www.aliexpress.com/item/4001297404341.html) variant K1002
+
+### Revisions
+* *nothing's here yet*
