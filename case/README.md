@@ -3,6 +3,7 @@
 
 ### Bill of Materials
 #### Mounting
+* 10 x m2x4mm countersunk screws - [aliexpress](https://www.aliexpress.com/item/32968097507.html)
 * 10 x m2x5mm button head screws - [aliexpress](https://www.aliexpress.com/item/32967225441.html)
 * 10 x m2x8mm female-female standoffs - [aliexpress](https://www.aliexpress.com/item/4001271908929.html) (for standard 1.6mm fr4 plates; if you plan on using thicker plates, such as 3mm acrylic ones, you will need to subtract the difference in thickness from the standoff, eg: 3mm plates would require 6.5mm standoffs)
 #### Tenting
