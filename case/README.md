@@ -12,7 +12,7 @@
 * 8 x 4.7mm inner diameter rubber caps, for the tenting version - [aliexpress](https://www.aliexpress.com/item/1005002270601725.html)
 * 8 x 10x2mm silicone feet - [aliexpress](https://www.aliexpress.com/item/4001297404341.html) variant K1002
 
-### Revisions: this case was specifically redisigned for the [BoardSource Unicorn_LP](https://www.boardsource.xyz/products/unicorne-LP)
+### Revisions (this case was specifically redisigned for the [BoardSource Unicorn_LP](https://www.boardsource.xyz/products/unicorne-LP))
 * Note: the plate is completely unchanged from the one found on [Void's Printables page](https://www.printables.com/model/347524-corne-keyboard-case-5-and-6-columns)
 * lowered the walls of the case to adhere with the height of the Kailh low-profile switches/keys
 * increased the hight of the walls around the OLED displays
