@@ -13,4 +13,6 @@
 * 8 x 10x2mm silicone feet - [aliexpress](https://www.aliexpress.com/item/4001297404341.html) variant K1002
 
 ### Revisions
-* *nothing's here yet*
+* lowered the walls of the case to adhere with the height of the Kailh low-profile keys
+* increased the hight of the walls around the OLEDs
+* resized the holes for the connecting cables --> BoardSource's Unicorne (regular & low-profile) uses USB-C ports instead of TRRS
